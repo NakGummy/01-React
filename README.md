@@ -7,7 +7,7 @@ Webアプリを作っていくための白紙ページ
 ```mermaid
 gantt
     dateFormat  MM-DD
-    excludes weekends
+    excludes sunday
     axisFormat %m/%d
     tickInterval 1week
     section フレームワーク
@@ -21,7 +21,7 @@ gantt
 ```mermaid
 gantt
     dateFormat  MM-DD
-    excludes weekends
+    excludes sunday
     axisFormat %m/%d
     tickInterval 1week
     section フォームアプリ開発
